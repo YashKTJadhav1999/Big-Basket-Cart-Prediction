@@ -14,10 +14,10 @@ Using the APRIORI Algorithm to predict the food product consumers might buy.
 6. Sorting the rules by decreasing LIFT.
 7. Printing the raw results.
 8. Printing results in a proper format.
-9. Displaying the Top 10 food products with the highest relationship with each other based on the LIFT.
+9. Displaying the Top 10 food products with the highest relationship with each other.
 
 CONCLUSION:
-The top 3 food products that have the highest possibility of being bought together are:
+The top 3 food products that have the highest possibility of being bought together based on APRIORI algorithm are:
 1. neck rest & trolly bag
 2. pasta & mushroom
 3. ginger garlic paste & chicken
