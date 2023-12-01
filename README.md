@@ -1,6 +1,6 @@
 # Big-Basket-Cart-Prediction Using Association Rule Learning:
 
-GOAL: To develop a Machine Learning algorithm to predict which food product is the consumer going to buy based on the previous food product bought based on the given dataset.
+GOAL: To develop a Machine Learning algorithm to predict which two food products is the consumer going to buy together based on the given dataset.
 
 STEPS :
 Using the APRIORI Algorithm to predict the food product consumers might buy.
